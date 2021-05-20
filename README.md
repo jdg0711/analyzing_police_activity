@@ -21,4 +21,4 @@ Programming languages and libraries used:
 - Assess whether a data source is trustworthy
 - Work with categorical data
 
-It may be easier to view the code by copying/pasting this [link](https://github.com/jdg0711/analyzing_police_activity/blob/master/data_camp/police_activity/police_activity.ipynb) into [nbviewer](https://nbviewer.jupyter.org/).
+It may be easier to view the [code](https://github.com/jdg0711/analyzing_police_activity/blob/master/police_activity.ipynb) by copying/pasting this [link](https://github.com/jdg0711/analyzing_police_activity/blob/master/data_camp/police_activity/police_activity.ipynb) into [nbviewer](https://nbviewer.jupyter.org/).
