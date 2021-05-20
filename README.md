@@ -7,4 +7,12 @@
 - manipulating time series data
 Analyzing Police Activity with pandas will give you valuable experience analyzing a dataset from start to finish, preparing you for your data science career
 
-It may be easier to view the [code](https://github.com/jdg0711/analyzing_police_activity/blob/master/data_camp/police_activity/police_activity.ipynb) with [nbviewer](https://nbviewer.jupyter.org/)
+Programming languages used: 
+-**Python**
+Libraries used: 
+-**pandas**
+-**numpy**
+-**matplotlib**
+-**seaborn**
+
+It may be easier to view the code by copying/pasting this [link](https://github.com/jdg0711/analyzing_police_activity/blob/master/data_camp/police_activity/police_activity.ipynb) into [nbviewer](https://nbviewer.jupyter.org/).
