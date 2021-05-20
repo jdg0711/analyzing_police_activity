@@ -1,12 +1,10 @@
 # Analyzing Police Activity
 ## A DataCamp project
-**Objective:** Explore the Stanford Open Policing Project dataset and analyze the impact of gender on police behavior. During the course, you will gain more practice with:
+**Objective:** Explore the Stanford Open Policing Project dataset and analyze the impact of gender on police behavior. Gain more practice with:
 - cleaning messy data
 - creating visualizations
 - combining and reshaping datasets
 - manipulating time series data
-
-Analyzing Police Activity with pandas will give you valuable experience analyzing a dataset from start to finish, preparing you for your data science career
 
 Programming languages and libraries used: 
 - python
@@ -17,7 +15,7 @@ Programming languages and libraries used:
 
 **Bonus Task:** Analyze the effect of weather on policing
 - Use a second dataset to explore the impact of weather conditions on police behavior during traffic stops.
-- Practice merging and reshaping datasets
+- Merge and reshape datasets
 - Assess whether a data source is trustworthy
 - Work with categorical data
 
