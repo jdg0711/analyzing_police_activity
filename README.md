@@ -6,14 +6,14 @@
 - combining and reshaping datasets
 - manipulating time series data
 
+![arrest rate](https://github.com/jdg0711/analyzing_police_activity/blob/master/data_camp/police_activity/arrest_rate.png)
+
 Programming languages and libraries used: 
 - python
 - pandas
 - numpy
 - matplotlib
 - seaborn
-
-![arrest rate](https://github.com/jdg0711/analyzing_police_activity/blob/master/data_camp/police_activity/arrest_rate.png)
 
 **Bonus Task:** Analyze the effect of weather on policing
 - Use a second dataset to explore the impact of weather conditions on police behavior during traffic stops.
