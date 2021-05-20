@@ -5,6 +5,7 @@
 - creating visualizations
 - combining and reshaping datasets
 - manipulating time series data
+
 Analyzing Police Activity with pandas will give you valuable experience analyzing a dataset from start to finish, preparing you for your data science career
 
 Programming languages and libraries used: 
