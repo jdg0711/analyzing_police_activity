@@ -6,7 +6,7 @@
 - combining and reshaping datasets
 - manipulating time series data
 
-![arrest rate](https://github.com/jdg0711/analyzing_police_activity/blob/master/data_camp/police_activity/images/arrest_rate.png)
+![arrest rate](https://github.com/jdg0711/analyzing_police_activity/blob/master/images/arrest_rate.png)
 
 Programming languages and libraries used: 
 - python
